@@ -2,11 +2,31 @@
 	text-align: center;
 }
 
+.container-fluid{
+	height:996px;
+}
+.row{
+
+}
+#carousel-example-generic{
+	position:relative;
+	top:100px;
+	height:100px;
+	width:800px;
+}
+
 #about{
 	margin-left: 10px;
 	margin-right: 10px;
 }
 
-.contact{
-	margin-right: 100px;
+#contact{
+	margin-right: 200px;
+}
+
+#inputEmail{
+	margin-top: 10px;
+}
+#textArea{
+	margin-top: 10px;
 }
